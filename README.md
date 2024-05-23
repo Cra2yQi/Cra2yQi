@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hello,Here is Kee.⚡️
 
-<!--
-**Cra2yQi/Cra2yQi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contact me:
 
-Here are some ideas to get you started:
+<p align="left" style="font-size:16px; font-weight:bold;">
+    <img align="left" src="./assets/img/wechat.svg" alt="" height="30" width="30" />
+    Kee_1022
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left" style="font-size:16px; font-weight:bold;">
+    <img align="left" src="./assets/img/bilibili.svg" alt="" height="30" width="30" />
+    Kee1022                                                                           
+</p>
+
+<p align="left" style="font-size:16px; font-weight:bold;">
+    <img align="left" src="./assets/img/qq.svg" alt="" height="30" width="30"/>
+    1461022
+</p>
+
+<p align="left" style="font-size:16px; font-weight:bold;">
+    <img align="left" src="./assets/img/mail.svg" alt="" height="30" width="30"/>
+    crzqi1022@gmail.com
+</p>
+
+
+
+
+
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Cra2yQi)]()
